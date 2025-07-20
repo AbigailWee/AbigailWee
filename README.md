@@ -28,8 +28,8 @@
 Feel free to browse my portfolio with all my projects [here](https://github.com/Weetynn/Portfolio.git). 
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=weetynn&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-profile-trophy.vercel.app/?username=weetynn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=abigailwee&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-profile-trophy.vercel.app/?username=abigailwee&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!---
 Weetynn/Weetynn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
